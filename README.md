@@ -1,7 +1,3 @@
-README dosyanız zaten Türkçe olarak yazılmış. Ancak, içeriğinizi daha detaylandırmak, emoji kullanımını artırmak ve okunabilirliği geliştirmek isterseniz, aşağıdaki gibi bir versiyon oluşturabilirim:
-
-### Güncellenmiş README.md:
-
 ```markdown
 # 🌊 Neptune Token Onliner v2.0 Beta
 
@@ -124,4 +120,3 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
     <p>💙 Neptune Development tarafından geliştirilmiştir</p>
     <p>⭐ Eğer projeyi beğendiyseniz, GitHub'da yıldız vermeyi unutmayın!</p>
 </div>
-```
