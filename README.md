@@ -1,13 +1,6 @@
 ```markdown
 # 🌊 Neptune Token Onliner v2.0 Beta
 
-<div align="center">
-    <img src="https://your-logo-url-here.png" alt="Neptune Logo" width="200"/>
-    
-[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/neptunedev)
-[![Stars](https://img.shields.io/github/stars/your-username/neptune-token-onliner?color=yellow&label=Stars⭐)](https://github.com/your-username/neptune-token-onliner)
-</div>
-
 ## 📋 Özellikler
 
 - 🚀 **Yüksek performanslı token yönetimi**
