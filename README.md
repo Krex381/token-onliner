@@ -20,7 +20,7 @@
 
 ### 2️⃣ Depoyu Klonlayın:
 ```bash
-git clone https://github.com/your-username/neptune-token-onliner.git
+git clone https://github.com/Krex381/neptune-token-onliner.git
 cd neptune-token-onliner
 ```
 
@@ -84,10 +84,6 @@ TOKEN3
 | ⚠️ | Token Hatası | Token'ı kontrol edin |
 | 💥 | Kritik Hata | Uygulamayı yeniden başlatın |
 
-## 🤝 Katkıda Bulunun
-
-Katkılarınızı memnuniyetle karşılıyoruz! Lütfen katkıda bulunmadan önce [katkı kılavuzumuzu](CONTRIBUTING.md) okuyun.
-
 ### 🔹 Katkı Yapmak İçin:
 1. **Fork** yapın 📌
 2. Yeni bir **branch** oluşturun (`git checkout -b feature/amazing`) 🔀
@@ -103,7 +99,7 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 📨 Herhangi bir sorunuz veya öneriniz varsa, lütfen aşağıdaki kanallardan bizimle iletişime geçin:
 
-- 🌐 **Discord:** [discord.gg/neptunedev](https://discord.gg/neptunedev)
+- 🌐 **Instagram:** [@Developer](https://instagram.com/werzy381)
 - 📧 **E-posta:** contact@neptune.dev
 - 🐦 **Twitter:** [@NeptuneDev](https://twitter.com/neptunedev)
 
