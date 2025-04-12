@@ -1,5 +1,4 @@
-```markdown
-# 🌊 Neptune Token Onliner v2.0 Beta
+# 🌊 Token Onliner v2.0 Beta
 
 ## 📋 Özellikler
 
@@ -9,6 +8,7 @@
 - 🔄 **Akıllı yeniden bağlanma sistemi**
 - 🛡️ **Gelişmiş hata yönetimi**
 - 🌐 **Özelleştirilebilir durum mesajları**
+- 🔵 **Aktivitesiz çevrimiçi olabilme** 
 - 🎯 **Düşük kaynak kullanımı**
 - 🔒 **Güvenli bağlantı protokolü**
 
@@ -20,8 +20,8 @@
 
 ### 2️⃣ Depoyu Klonlayın:
 ```bash
-git clone https://github.com/Krex381/neptune-token-onliner.git
-cd neptune-token-onliner
+git clone https://github.com/Krex381/token-onliner.git
+cd token-onliner
 ```
 
 ### 3️⃣ Bağımlılıkları Yükleyin:
@@ -100,12 +100,11 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 📨 Herhangi bir sorunuz veya öneriniz varsa, lütfen aşağıdaki kanallardan bizimle iletişime geçin:
 
 - 🌐 **Instagram:** [@Developer](https://instagram.com/werzy381)
-- 📧 **E-posta:** contact@neptune.dev
-- 🐦 **Twitter:** [@NeptuneDev](https://twitter.com/neptunedev)
+- 🌐 **Discord:** [@Developer](https://discord.com/users/1012249571436548136)
 
 ---
 
 <div align="center">
-    <p>💙 Neptune Development tarafından geliştirilmiştir</p>
+    <p>💙 Krex tarafından geliştirilmiştir</p>
     <p>⭐ Eğer projeyi beğendiyseniz, GitHub'da yıldız vermeyi unutmayın!</p>
 </div>

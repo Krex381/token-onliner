@@ -1,5 +1,5 @@
 {
-  "name": "efes",
+  "name": "krex",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "efes"
+    "krex"
   ],
-  "author": "efes",
+  "author": "krex",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
