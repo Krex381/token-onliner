@@ -316,7 +316,7 @@ setInterval(() => {
     console.log(chalk.cyan(`
     [⏰] Saat: ${time}
     [📅] Tarih: ${date}
-    [💫] Neptune Token Onliner Aktif
+    [💫] Token Onliner Aktif
     [👥] Toplam Token: ${tokens.length}`));
 }, 30000);
 
